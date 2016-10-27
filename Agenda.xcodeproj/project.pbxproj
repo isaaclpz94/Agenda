@@ -304,6 +304,7 @@
 				6A94003A1DC2242A000B12C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
